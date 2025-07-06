@@ -1,3 +1,3 @@
 class AppConfig {
-  static const String baseUrl = 'https://hritinstitute.com';
+  static const String baseUrl = '';
 }
