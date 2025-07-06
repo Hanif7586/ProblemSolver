@@ -1,6 +1,6 @@
  # 📘 ProblemSolver App
 
-ProblemSolver is an Android application where students can upload a problem (image and description), and other users can comment with solutions. This app is built using **MVVM architecture**, clean code principles, and communicates with a RESTful API over HTTP.
+ProblemSolver is an Android application where students can upload a problem (image and description), and other users can comment with solutions. This app is built using **MVVM architecture**, clean code principles, and communicates with  API over HTTP.
 
 ---
 
